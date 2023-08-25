@@ -5,3 +5,4 @@
 ### Database: MongoDB, facilitating efficient data storage and retrieval.
 ### Front-end: Uses React, allows users to easily browse movies, watch previews, and contribute their reviews.
 [Movie Review](https://my-movie-api.kflux7.repl.co)
+Credit to Freecode Camp: https://www.youtube.com/watch?v=5PdEmeopJVQ&t=6118s
